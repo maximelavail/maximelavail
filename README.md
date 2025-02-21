@@ -14,8 +14,8 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://img.shields.io/badge/French-Native-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Spanish-B2-green?style=for-the-badge" />
     <img src="https://img.shields.io/badge/English-B1-yellow?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Spanish-B1-red?style=for-the-badge" />
   </a>
 </p>
 
@@ -33,14 +33,35 @@
 ### 🔹 Frameworks & Libraries  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,django" />
+    <img src="https://skillicons.dev/icons?i=react,angular,django,sass" />
   </a>
 </p>
 
-### 🔹 DevOps & Tools  
+### 🔹 DevOps, Tools & Runtime  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,bash,git,github,nodejs" />
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,aws,azure,gcp,linux,bash,git,github" />
+  </a>
+</p>
+
+### 🔹 Development & Productivity Tools  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse,figma,autocad,androidstudio,discord" />
+  </a>
+</p>
+
+### 🔹 Computer Vision & Testing  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=opencv,selenium,jest" />
+  </a>
+</p>
+
+### 🔹 Databases & Storage  
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
   </a>
 </p>
 
