@@ -70,11 +70,11 @@
 ## 🎓 Education  
 
 <p align="left">
-  <a href="https://42.fr/">
+  <a href="https://42.fr/en/homepage/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/42_Logo.svg/1024px-42_Logo.svg.png" width="50" alt="École 42 Logo">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://openclassrooms.com/">
+  <a href="https://openclassrooms.com/en/">
     <img src="https://upload.wikimedia.org/wikipedia/fr/0/0d/Logo_OpenClassrooms.png" width="50" alt="OpenClassrooms Logo">
   </a>
 </p>
