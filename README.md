@@ -4,8 +4,8 @@
 
 ## 🌟 About Me  
 
-👋 Hi, I'm **Maxime-Thomas**, a passionate **Software Engineer** specializing in **Web & Mobile Development**.  
-📍 Based in **Medellín, Colombia**  
+👋 Hi, I'm **Maxime-Thomas**, a passionate **Software Engineer** specializing in **Low Latency Programs**.  
+📍 Based in **Medellín, Colombia & France**  
 🎯 Focused on **building scalable and high-performance applications**  
 
 
