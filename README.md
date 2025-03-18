@@ -5,7 +5,7 @@
 ## 🌟 About Me  
 
 👋 Hi, I'm **Maxime-Thomas**, a passionate **Software Engineer** specializing in **Low Latency Programs**.  
-📍 Based in **Medellín, Colombia & France**  
+📍 Based in **France & Colombia**  
 🎯 Focused on **building scalable and high-performance applications**  
 
 
@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/French-Native-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Spanish-B2-green?style=for-the-badge" />
     <img src="https://img.shields.io/badge/English-B1-yellow?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Chinese-A1-red?style=for-the-badge" />
   </a>
 </p>
 
@@ -26,28 +27,28 @@
 ### 🔹 Programming Languages  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,php,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,python" />
   </a>
 </p>
 
 ### 🔹 Frameworks & Libraries  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,django,sass" />
+    <img src="https://skillicons.dev/icons?i=react,sass" />
   </a>
 </p>
 
 ### 🔹 DevOps, Tools & Runtime  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,docker,kubernetes,aws,azure,gcp,linux,bash,git,github" />
+    <img src="https://skillicons.dev/icons?i=nodejs,docker,aws,linux,bash,git,github" />
   </a>
 </p>
 
 ### 🔹 Development & Productivity Tools  
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,vim,eclipse,figma,autocad,androidstudio,discord" />
+    <img src="https://skillicons.dev/icons?i=vscode,vim,figma,androidstudio,discord" />
   </a>
 </p>
 
@@ -84,7 +85,6 @@
 ## 📬 Contact  
 
 📧 **Email :** maxime.lavail@hotmail.fr <br />
-💬 **Open to collaborations & freelance opportunities!**  
 
 ---
 
