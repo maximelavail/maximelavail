@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/French-Native-blue?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Spanish-B2-green?style=for-the-badge" />
     <img src="https://img.shields.io/badge/English-B1-yellow?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/Chinese-A1-red?style=for-the-badge" />
   </a>
 </p>
 
